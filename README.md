@@ -8,4 +8,6 @@ Este repositorio esta organizado siguiendo dicha metodologia gitflow para garant
 
 - develop: Es la rama de integracion donde se combinan y prueban las nuevas funcionalidades antes de pasarlas a produccion en si es aquel entorno llamado pre-produccion
 
-- Feature/*: Son utilizadas para desarrollar nuevas caracteristicas o mejoras 
+- Feature/*: Son utilizadas para desarrollar nuevas caracteristicas o mejoras
+
+PD: Se creo una simulacion para practicar como se puede aplicar los comandos git merge, checkout para añadir contenido de una rama a otra y hacer el cambio entre ramas
